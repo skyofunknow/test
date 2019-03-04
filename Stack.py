@@ -6,6 +6,7 @@ class Stack():
     def size(self):
         return len(self.items)
     
+    #栈顶元素
     def peek(self):
         if self.size()==0:
             print("None")
