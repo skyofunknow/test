@@ -8,6 +8,6 @@ Recursion.py	递归
 BubbleSort.py	冒泡排序
 InsertSort.py	插入排序
 SelectSort.py	选择排序
-	
+merge_sort.py	归并排序
 	
 
