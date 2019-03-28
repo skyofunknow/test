@@ -52,6 +52,7 @@ class Skiplist():
             return False
         
         k=randomLevel()
+        #大于原调表高度
         if k>self.level:
             i=self.level
             while i<k:
